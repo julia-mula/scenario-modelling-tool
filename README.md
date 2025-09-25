@@ -1,5 +1,9 @@
 # Scenario Modelling Tool (SMT)
 
+All detailed information and project artifacts can be found on the Miro board: [Open Miro Board](https://miro.com/app/board/uXjVJDSoRT8=/?share_link_id=840243111723)
+
+The full project, including source code and supporting files, is available on GitHub: [View the GitHub Repository](https://github.com/sm-tool/sm-tool)
+
 ## Project Description
 
 In many European projects there is a need to organize an experiment involving
@@ -9,7 +13,6 @@ Such experiments aim to practice procedures or test new solutions under conditio
 
 While there are methodologies describing how to prepare for such experiments (e.g., **TGM – Trial Guidance Methodology**, **CWA 18009:2023**), there is still a lack of a flexible tool that supports the **design of situational scenarios**.  
 
----
 
 ## The Solution
 
@@ -29,7 +32,6 @@ The tool makes it possible to:
   - participants playing assigned roles,  
   - observers and experts evaluating the exercise.  
 
----
 
 ## Core Functionality
 
@@ -42,3 +44,22 @@ The tool makes it possible to:
 
 ---
 
+## What Has Been Done
+
+### 1. Business Case
+Defined the problem, objectives, stakeholders, and expected benefits of the project. Provides a foundation for requirements and project planning.
+
+### 2. Use Cases
+Created structured scenarios showing how users and systems interact. Helps ensure all functional requirements are captured.
+
+### 3. Requirements & Meeting Notes
+Collected and documented stakeholder requirements from meetings. Organized key needs, constraints, and priorities.
+
+### 4. Prototype
+Developed initial mockups and wireframes to visualize the solution. Supports early stakeholder feedback and validation.
+
+### 5. Project Plan
+Created a timeline with milestones, deliverables, and meeting schedules to guide project progress and coordination.
+
+### 6. Communication Setup
+Defined communication channels (Slack/Google Meet, email distribution) to ensure efficient information sharing among the team.
